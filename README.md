@@ -11,7 +11,7 @@ Coder. Gamer. Dreamer.
 
 ## Language
 
-Pythonista. (Currently, blogs take up the majority…
+Pythonista with Scala. (Currently, blogs files take up the majority…
 
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-%232b5b84?logo=python&logoColor=white">
@@ -26,12 +26,15 @@ The developer of Kal'tsit bot.
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=konelane&repo=QQbot_Kal-tsit)
 
+[click here to Kal'tsit](https://github.com/konelane/QQbot_Kal-tsit)
+
 ## For you
 
 When in doubt, just use XGB.
 
 May the kind be with you.
 
+It is the nature of a thing that matters.
 
 <!-- ### Hi there 👋 -->
 
